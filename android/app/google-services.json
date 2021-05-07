@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437275366415",
+    "project_id": "notetakingapplication-10260",
+    "storage_bucket": "notetakingapplication-10260.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437275366415:android:94cd8b244cd6a6af78bf7a",
+        "android_client_info": {
+          "package_name": "dev.blackdevil.todo_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437275366415-fnli7u6bukhr841l9kof93vkk8j13hb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsU2Dm_bWEvD7hVGAHiyX3L5OnUGXmVU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437275366415-fnli7u6bukhr841l9kof93vkk8j13hb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
